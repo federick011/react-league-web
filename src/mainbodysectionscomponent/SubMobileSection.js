@@ -30,7 +30,7 @@ export default function SubMobileSection({typeofdevice})
                                 <span>
                                         <a href="https://www.linkedin.com/in/federick-turizo-martinez-713326168/"
                                         target="_blank" rel="noopener noreferrer"><img src={linkEdin} /></a>
-                                        <a href="https://github.com/federick011"
+                                        <a href="https://github.com/federick011/react-league-web"
                                         target="_blank" rel="noopener noreferrer"><img src={gitHubLogo} /></a>
                                 </span>
                             </div>
