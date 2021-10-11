@@ -29,9 +29,9 @@ export default function SubMobileSection({typeofdevice})
                                 <p> You can reach me on</p>
                                 <span>
                                         <a href="https://www.linkedin.com/in/federick-turizo-martinez-713326168/"
-                                        target="_blank"><img src={linkEdin} /></a>
+                                        target="_blank" rel="noopener noreferrer"><img src={linkEdin} /></a>
                                         <a href="https://github.com/federick011"
-                                        target="_blank"><img src={gitHubLogo} /></a>
+                                        target="_blank" rel="noopener noreferrer"><img src={gitHubLogo} /></a>
                                 </span>
                             </div>
                         </div>

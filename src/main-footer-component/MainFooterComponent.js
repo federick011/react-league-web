@@ -11,11 +11,11 @@ export default function MainFooterComponent()
                 <div className="text-content">
 
                     This site was developed By <span>
-                        <a href="https://www.linkedin.com/in/federick-turizo-martinez-713326168/" target="_blank">
+                        <a href="https://www.linkedin.com/in/federick-turizo-martinez-713326168/" target="_blank" rel="noopener noreferrer">
                             Federick Turizo
                         </a>
                     </span> and the design was inspired By <span>
-                        <a href="https://www.figma.com/@UnEpicKid" target="_blank"> Dmitry Kiiashko.</a>
+                        <a href="https://www.figma.com/@UnEpicKid" target="_blank" rel="noopener noreferrer"> Dmitry Kiiashko.</a>
                     </span>
                     <p/>
                     League of Legends.
