@@ -31,7 +31,7 @@ export default function SubMainSectionOne({typeofdevice})
                             <h3>Hi!, I'm Federick Turizo.</h3>
                                 <p>I am a front-end web developer and game developer.</p>
                                 <p/>
-                               <p> You can reach me on</p>
+                                <p> You can reach me on</p>
                             <span>
                                     <a href="https://www.linkedin.com/in/federick-turizo-martinez-713326168/"
                                     target="_blank" rel="noopener noreferrer"><img src={linkEdin} /></a>

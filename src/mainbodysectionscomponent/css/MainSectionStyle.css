@@ -93,7 +93,7 @@
     background-size: cover;
     background-attachment: fixed;
     width: 100vw;
-    height:100vh;
+    height:1080px;
     
 }
 .sub-main-div-mobile
@@ -105,21 +105,22 @@
 .charac-content-mobile
 {
     
-    height: 100%;
+    height: 90%;
     width: 100%;
     background-image: url("../images/Jinx.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 70% 20%;
+    background-position: 50% 50%;
     float:left;
-    margin-bottom: 5rem;
+    margin-top: 10%;
+    margin-bottom: 5px;
     
 }
 
 .info-div-mobile
 {
-    box-sizing: border-box;
-    margin-top: 50vh;
+    
+    margin-top: 500px;
     width: 100%;
     float:left;
     
@@ -131,11 +132,11 @@
     background-image: url("../images/info-background.png");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 95%;
+    width: 70%;
     text-align: center;
-    padding: 3%;
+    padding: 1%;
     font-family: 'Roboto Slab', serif;
-    font-size: 1.5rem;
+    font-size: 20px;
 }
 .sub-info-div-mobile img
 {
