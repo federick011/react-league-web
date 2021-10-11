@@ -1,0 +1,143 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+.main-body-sections
+{
+    margin: auto;
+    background-image: url("../images/background-img-main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height:100vh;
+    
+}
+
+
+.sub-section-one
+{
+    
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    
+}
+.main-div
+{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: 50%;
+    
+}
+
+.sub-main-div
+{
+    margin: auto;
+    width: 90%;
+    height: 100%;
+}
+
+.charac-content
+{
+    
+    height: 100%;
+    width: 40%;
+    float:left;
+    
+}
+.charac-content img
+{
+    height: 100%;
+    margin: auto;
+}
+.info-div
+{
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 80px;
+    width: 400px;
+    height: 400px;
+    float:left;
+    
+}
+.sub-info-div
+{
+    
+    margin: auto;
+    background-image: url("../images/info-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5rem;
+}
+.sub-info-div img
+{
+    width: 15%;
+    margin: 5%;
+}
+
+/* Mobile section */
+.main-body-sections-mobile
+{
+    margin: auto;
+    background-image: url("../images/background-img-main-mobile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height:100vh;
+    
+}
+.sub-main-div-mobile
+{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+.charac-content-mobile
+{
+    
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/Jinx.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70% 20%;
+    float:left;
+    
+}
+
+.info-div-mobile
+{
+    box-sizing: border-box;
+    margin-top: 50vh;
+    width: 100%;
+    float:left;
+    
+}
+.sub-info-div-mobile
+{
+    
+    margin: auto;
+    background-image: url("../images/info-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 95%;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5rem;
+}
+.sub-info-div-mobile img
+{
+    width: 15%;
+    margin: 5%;
+}
